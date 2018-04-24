@@ -5,11 +5,20 @@
  "nome":"Pedro Silva",
 "id":"1",
 "email":"pedro16francisco_@hotmail.com",
-"password":"123456"
+"password":"1234"
+"passos:57"
  },
  {
  "nome":"Miguel Chaves",
 "id":"2",
 "email":"migas_braga@hotmail.com",
-"password":"123456"}
+"password":"12345"
+ "passos:60},
+ {
+"nome":"Pedro Sampaio",
+"id":"3",
+"email":"pedromiguelfonsecasampaio@gmail.com",
+"password":"123456"
+"passos:57"
+ }
  ]}
